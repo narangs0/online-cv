@@ -6,7 +6,7 @@ sidebar:
     # Site Settings
     title: My Resume
     url: 'http://webjeda.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    # about: set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Shivani Narang
@@ -33,10 +33,10 @@ sidebar:
         
     interests:
         - interest:
-          item: Climbing
+          item: Hiking
           link:
         - interest:
-          item: Snowboarding
+          item: Painting
           link:
         - interest:
           item: Cooking
