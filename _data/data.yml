@@ -50,7 +50,7 @@ sidebar:
 career-profile: 
     title: Career Profile
     text: 'Seeking a career in a standard-setting company that has a strong commitment to the employees’ growth. My career goals and
-objectives are to continue to learn and grow my skillset and to be an invaluable asset to the Google team. I thrive under
+objectives are to continue to learn and grow my skillset and to be an invaluable asset to the __b__ team. I thrive under
 challenging environments and identify with strong problem-solving skills. I am driven, insightful and a polished communicator
 who seeks to grow into a leadership position.'
 
@@ -84,14 +84,14 @@ experiences:
                 Received multiple awards of recognition for Service Excellence 
  
 
-        - role: Senior Software Engineer
-          time: 2014 - 2015
-          company: Google, London
+        - role: Research Assistant
+          time: August 2015 - May 2017
+          company: Psychology, Policy, and Law Lab, University of Arizona
           details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
         
-        - role: UI Developer
-          time: 2012 - 2014
-          company: Amazon, London
+        - role: Research Assistant
+          time: August 2016 - May 2017
+          company: Center for Couples and Family Study, University of Arizona
           details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
  
@@ -99,24 +99,24 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: Data Collection adn Analytics
+          level: 100%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
+          name: Customer Service Skills
+          level: 100%
         - skill:
-          name: Angular
-          level: 98%
+          name: Planning & Organization
+          level: 100%
         - skill:
-          name: HTML5 & CSS
+          name: Microsoft Office Suite
           level: 95%
         - skill:
-          name: Ruby on Rails
-          level: 85%
+          name: Facilitation/Presentation & Time Management
+          level: 100%
         - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: Training and Development
+          level: 70%
 
 
 footer: 
-    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+   # text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
